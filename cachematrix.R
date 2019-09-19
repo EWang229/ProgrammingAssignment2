@@ -1,5 +1,5 @@
 ## My function first 1. sets value of the matrix, 2. gets the value of matrix, 3. sets the value of the inverse matrix,
-## and 4. gets the value of the inverse matrix.
+## and 4. gets the value of the inverse matrix. 
 
 ## Basically, the function allows the matrix's inverse to be cached. 
 
